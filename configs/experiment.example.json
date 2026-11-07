@@ -1,0 +1,9 @@
+{
+  "protocol_version": "frozen-repair-precheck-v2",
+  "checkpoint": "/absolute/server/path/to/original_nlns_model.pt",
+  "checkpoint_sha256": "REPLACE_WITH_INDEPENDENTLY_CHECKED_SHA256",
+  "checkpoint_metadata": "/absolute/server/path/to/checkpoint_metadata.json",
+  "dataset": "/absolute/server/path/to/assets_manifest.json",
+  "device": "cpu",
+  "threads": 1
+}

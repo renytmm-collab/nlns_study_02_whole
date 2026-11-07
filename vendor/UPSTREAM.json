@@ -1,0 +1,23 @@
+{
+  "url": "https://github.com/ahottung/NLNS",
+  "commit": "8fd1e83faeb0ecff7986c4e5993f7398e6b6b6f8",
+  "files": {
+    "actor.py": "3cfed041d0d1f5b995bf72e4abec38156ec3065b48164f7cc8d31e0ba8baf721",
+    "config.py": "0ae1d9fbcf01611b4e30092994858e941fb1977eb71f180c6a7dffef71ae6582",
+    "critic.py": "ff659f949b0de01bb64cc895e7b160c4ef66f20078a74fa87a9ff9f6e01d8c63",
+    "generate_instances.py": "3c230b9921fc9b6c6fe3255d0d4f08611a32c91c64c94b4468f79a4b4cd3c18b",
+    "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "main.py": "624d0bb0a02ab20c3e3443bbc088402f8b3796ad3da207a0cbb2d16b371570a1",
+    "readme.md": "44b5a4a1957f0385f7cf8cb5b2c311d69e6cee0b18e9691e2af72718a776fbf3",
+    "repair.py": "855f7571d0e3946dcc96aebb927772a48007643cbacc0fe96620bae7b2ef280f",
+    "search.py": "53eebc29fe06d7e12ccbed9bd83097cf6193a8b0da33b11f114bb92fdf873700",
+    "search_batch.py": "1fac077ac7fac9c1e6d223ae4be6f5488165e4531085dad8565d0837496fa41d",
+    "search_single.py": "a9d2e643300a921cc61f7327d19751e9d3b8026d2c4f47db948842bf29788464",
+    "train.py": "ca177c95b25b77610b88bfe429a651ec73553f259d6b34e303c7dcf081d6074f",
+    "vrp/data_utils.py": "ca65a011a3789e531172af936fb7334593818d364822fb149221fb2df182e07d",
+    "vrp/vrp_problem.py": "32770ff2118ffd874f8b605cd66dfe6fa4df360beaf8706d5259faa3ac201bf9",
+    "vrp/dataset_blueprints/ALTR.py": "6a78f9e1ba30c622c586f38d47962b62a42027850b4649d9a941556c8ea97f6f",
+    "vrp/dataset_blueprints/S.py": "1af1bbcb29c94195de0a13192cc5473b0811deb65b4235ba9cd792c96440746e",
+    "vrp/dataset_blueprints/XE.py": "e4d98ec0cfcd2a869175059d67f73333870adfd4e4d90ebc815db78b95cb2f37"
+  }
+}
